@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T13:14:46.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="hdmcY2TVRk147PQOYL4h" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T13:30:50.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="0-dG3U05gDjQ9yM6xBhS" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1639" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
           <mxGeometry y="90" width="246" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WIwWjgsl4_0iOltH3H-g-10" value="Estoque" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="220" width="246" height="120" as="geometry" />
+          <mxGeometry x="520" y="170" width="246" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WIwWjgsl4_0iOltH3H-g-11" value="idEstoque" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIwWjgsl4_0iOltH3H-g-10">
           <mxGeometry y="30" width="246" height="30" as="geometry" />
